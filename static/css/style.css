@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend{
+  background-color: white;
+  padding: 10px;
+}
+
+.legend i{
+  height: 20px;
+  width: 20px;
+  float: left;
+  margin-right: 5px;
+}
+
+.legend div{
+  margin-top: 5px;
+}
+
+.legend h3{
+  margin-top: -8px;
+}
